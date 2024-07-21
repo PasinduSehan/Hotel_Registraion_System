@@ -1,0 +1,13 @@
+.collection img {
+    filter: grayscale(100%);
+    transition: 0.5s;
+  }
+  .collection img:hover {
+    filter: grayscale(0);
+  }
+.collection .box{
+    border: none;
+}
+
+
+
